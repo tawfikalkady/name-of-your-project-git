@@ -1,0 +1,66 @@
+https://reactrouter.com/en/main/start/tutorial
+npm create vite@latest name-of-your-project -- --template react
+npm install
+npm install react-router-dom
+npm run dev
+
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
